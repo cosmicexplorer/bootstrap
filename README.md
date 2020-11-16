@@ -16,7 +16,9 @@ The tools we will be bootstrapping will be judged by (in order of precedence):
 
 # Supported Platforms
 
-1. `linux-x86_64` *(since that's the only one I have access to right now)*
+1. `linux-x86_64`
+2. `macosx-x86_64`
+3. ...
 
 # External Dependencies
 
