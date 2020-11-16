@@ -1,0 +1,4 @@
+[submodule "vendored/reproducible-toolchain"]
+	path = vendored/reproducible-toolchain
+	url = git@github.com:cosmicexplorer/reproducible-toolchain
+	branch = main
